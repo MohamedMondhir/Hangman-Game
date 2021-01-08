@@ -11,7 +11,7 @@ let WordsToGuess = [
 	"university",
 	"russia",
 	"database",
-	"data science"
+	"data"
 ]
 
 let answer = '';
